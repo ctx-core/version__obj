@@ -1,5 +1,11 @@
 # @ctx-core/version\_\_obj
 
+## 4.1.0
+
+### Minor Changes
+
+- self_lazyload as lazyload\_\_self,argument types
+
 ## 4.0.5
 
 ### Patch Changes
