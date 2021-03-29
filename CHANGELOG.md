@@ -1,5 +1,11 @@
 # @ctx-core/version\_\_obj
 
+## 5.0.8
+
+### Patch Changes
+
+- version bump
+
 ## 5.0.7
 
 ### Patch Changes
