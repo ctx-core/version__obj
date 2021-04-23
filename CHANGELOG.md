@@ -1,5 +1,11 @@
 # @ctx-core/version\_\_obj
 
+## 5.0.11
+
+### Patch Changes
+
+- - Reflect.get
+
 ## 5.0.10
 
 ### Patch Changes

@@ -1,4 +1,3 @@
-import get = Reflect.get
 const { assign } = Object
 export function self_lazyload(
 	self:object,
@@ -7,7 +6,7 @@ export function self_lazyload(
 	version_symbol:symbol|string,
 	$value:any
 ) {
-	const cache_version = get(self, version_symbol)
+	const cache_version = self[version_symbol]
 	if (cache_version != cache_version) {
 		assign(self, {
 			[version_symbol]: version,
