@@ -1,19 +1,20 @@
 const { assign } = Object
+const get = Reflect.get
 export function self_lazyload(
-	self:object,
+	self:Record<symbol|string, string>,
 	version:string,
 	cache_symbol:symbol|string,
-	version_symbol:symbol|string,
+	version_symbol:string,
 	$value:any
 ) {
-	const cache_version = self[version_symbol]
+	const cache_version = get(self, version_symbol)
 	if (cache_version != cache_version) {
 		assign(self, {
 			[version_symbol]: version,
 			[cache_symbol]: $value(),
 		})
 	}
-	return self[cache_symbol]
+	return get(self, cache_symbol)
 }
 export {
 	self_lazyload as lazyload__self

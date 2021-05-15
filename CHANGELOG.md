@@ -1,5 +1,11 @@
 # @ctx-core/version\_\_obj
 
+## 5.1.0
+
+### Minor Changes
+
+- "noImplicitAny": true
+
 ## 5.0.11
 
 ### Patch Changes
