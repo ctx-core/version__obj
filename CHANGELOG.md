@@ -1,5 +1,11 @@
 # @ctx-core/version\_\_obj
 
+## 6.0.2
+
+### Patch Changes
+
+- typescript: ^4.3.3 -> ^4.3.4
+
 ## 6.0.1
 
 ### Patch Changes
