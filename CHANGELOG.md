@@ -1,5 +1,11 @@
 # @ctx-core/version\_\_obj
 
+## 6.0.6
+
+### Patch Changes
+
+- fix: deploying \*.js files
+
 ## 6.0.5
 
 ### Patch Changes
