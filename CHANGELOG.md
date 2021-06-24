@@ -1,5 +1,11 @@
 # @ctx-core/version\_\_obj
 
+## 6.0.8
+
+### Patch Changes
+
+- tsconfig.json: "lib": ["dom", "ESNext"]
+
 ## 6.0.7
 
 ### Patch Changes
