@@ -1,1 +1,1 @@
-export * from './self_lazyload'
+export * from './self_lazyload.js'
