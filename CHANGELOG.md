@@ -1,5 +1,11 @@
 # @ctx-core/version\_\_obj
 
+## 7.0.2
+
+### Patch Changes
+
+- fix: "type": "module"
+
 ## 7.0.1
 
 ### Patch Changes
