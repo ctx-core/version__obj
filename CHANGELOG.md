@@ -1,5 +1,11 @@
 # @ctx-core/version\_\_obj
 
+## 7.0.6
+
+### Patch Changes
+
+- "main": "./dist/index.cjs"
+
 ## 7.0.5
 
 ### Patch Changes
