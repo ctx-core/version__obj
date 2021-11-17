@@ -5,13 +5,13 @@ export function self_lazyload<Val extends unknown = unknown>(
 	version:string,
 	cache_symbol:string,
 	version_symbol:string,
-	$value:()=>Val
+	value_:()=>Val
 ) {
 	const cache_version = get(self, version_symbol)
 	if (cache_version != cache_version) {
 		assign(self, {
 			[version_symbol]: version,
-			[cache_symbol]: $value(),
+			[cache_symbol]: value_(),
 		})
 	}
 	return get(self, cache_symbol)
