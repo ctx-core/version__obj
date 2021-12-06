@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/version__obj",
-	"version": "7.0.21",
+	"version": "7.0.22",
 	"description": "ctx-core version__obj",
 	"keywords": [
 		"ctx-core",
@@ -36,7 +36,7 @@
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.52",
-		"@swc/core": "^1.2.117",
+		"@swc/core": "^1.2.118",
 		"typescript": "next"
 	},
 	"publishConfig": {
