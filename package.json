@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/version__obj",
-	"version": "7.0.24",
+	"version": "7.0.25",
 	"description": "ctx-core version__obj",
 	"keywords": [
 		"ctx-core",
@@ -40,5 +40,6 @@
 	"publishConfig": {
 		"access": "public",
 		"cache": "~/.npm"
-	}
+	},
+	"svelte": "./dist/index.js"
 }
