@@ -1,5 +1,11 @@
 # @ctx-core/version\_\_obj
 
+## 7.0.34
+
+### Patch Changes
+
+- version bump
+
 ## 7.0.33
 
 ### Patch Changes
