@@ -1,5 +1,11 @@
 # @ctx-core/version\_\_obj
 
+## 7.0.36
+
+### Patch Changes
+
+- sideEffects = false
+
 ## 7.0.35
 
 ### Patch Changes
