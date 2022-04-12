@@ -1,5 +1,11 @@
 # @ctx-core/version\_\_obj
 
+## 7.0.37
+
+### Patch Changes
+
+- package.json: exports: update
+
 ## 7.0.36
 
 ### Patch Changes
