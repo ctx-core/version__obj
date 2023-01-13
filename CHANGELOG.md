@@ -1,5 +1,11 @@
 # @ctx-core/version\_\_obj
 
+## 7.0.38
+
+### Patch Changes
+
+- rimraf: ^3.0.2 -> ^4.0.1
+
 ## 7.0.37
 
 ### Patch Changes
