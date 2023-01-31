@@ -1,5 +1,11 @@
 # @ctx-core/version\_\_obj
 
+## 7.0.40
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+
 ## 7.0.39
 
 ### Patch Changes
