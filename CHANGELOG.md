@@ -1,5 +1,11 @@
 # @ctx-core/version\_\_obj
 
+## 7.1.1
+
+### Patch Changes
+
+- 15f224d0f: @ctx-core/object: workspace:^24.1.4 -> 24.1.5
+
 ## 7.1.0
 
 ### Minor Changes
