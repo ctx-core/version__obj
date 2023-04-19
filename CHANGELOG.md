@@ -1,5 +1,13 @@
 # @ctx-core/version\_\_obj
 
+## 7.1.49
+
+### Patch Changes
+
+- @ctx-core/monorepo: ^20.3.3 -> ^20.3.4
+- Updated dependencies
+  - @ctx-core/object@27.4.23
+
 ## 7.1.48
 
 ### Patch Changes
