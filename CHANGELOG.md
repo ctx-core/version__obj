@@ -1,5 +1,13 @@
 # @ctx-core/version\_\_obj
 
+## 7.1.65
+
+### Patch Changes
+
+- version bump
+- Updated dependencies
+  - @ctx-core/object@28.0.7
+
 ## 7.1.64
 
 ### Patch Changes
