@@ -1,5 +1,13 @@
 # @ctx-core/version\_\_obj
 
+## 7.2.3
+
+### Patch Changes
+
+- package.json: files: + \*.js
+- Updated dependencies
+  - @ctx-core/object@30.1.3
+
 ## 7.2.2
 
 ### Patch Changes
