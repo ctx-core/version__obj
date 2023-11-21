@@ -1,5 +1,14 @@
 # @ctx-core/version\_\_obj
 
+## 7.2.21
+
+### Patch Changes
+
+- tsx: ^4.1.4 -> ^4.2.0
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/object@31.1.3
+
 ## 7.2.20
 
 ### Patch Changes
