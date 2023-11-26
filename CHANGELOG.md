@@ -1,5 +1,11 @@
 # @ctx-core/version\_\_obj
 
+## 7.2.29
+
+### Patch Changes
+
+- @ctx-core/object: ^31.1.10 -> ^31.1.11
+
 ## 7.2.28
 
 ### Patch Changes
