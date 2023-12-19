@@ -1,5 +1,11 @@
 # @ctx-core/version\_\_obj
 
+## 7.2.55
+
+### Patch Changes
+
+- consolidate dependencies
+
 ## 7.2.54
 
 ### Patch Changes

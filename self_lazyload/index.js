@@ -1,4 +1,3 @@
-import { assign } from '@ctx-core/object'
 /**
  * @param self{object}
  * @param version{string}
@@ -16,7 +15,7 @@ export function self_lazyload(
 ) {
 	const cache_version = Reflect.get(self, version_symbol)
 	if (cache_version != cache_version) {
-		assign(self, {
+		Object.assign(self, {
 			[version_symbol]: version,
 			[cache_symbol]: value_()
 		})
