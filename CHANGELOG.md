@@ -1,5 +1,11 @@
 # @ctx-core/version\_\_obj
 
+## 7.2.57
+
+### Patch Changes
+
+- tsx: ^4.7.0 -> ^4.7.1
+
 ## 7.2.56
 
 ### Patch Changes
