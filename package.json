@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/version__obj",
-	"version": "7.2.57",
+	"version": "7.2.58",
 	"description": "ctx-core version__obj",
 	"keywords": [
 		"ctx-core",
@@ -15,7 +15,11 @@
 		"url": "https://github.com/ctx-core/version__obj.git"
 	},
 	"license": "Apache-2.0",
-	"author": "Brian Takita",
+	"author": {
+		"name": "Brian Takita",
+		"url": "https://briantakita.me",
+		"email": "info+ctx-core-version__obj@briantakita.me"
+	},
 	"type": "module",
 	"files": [
 		"*.d.ts",

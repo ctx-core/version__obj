@@ -1,5 +1,11 @@
 # @ctx-core/version\_\_obj
 
+## 7.2.58
+
+### Patch Changes
+
+- package.json: author: url,email
+
 ## 7.2.57
 
 ### Patch Changes
