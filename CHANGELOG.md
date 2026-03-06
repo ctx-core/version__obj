@@ -1,5 +1,11 @@
 # @ctx-core/version\_\_obj
 
+## 7.2.60
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+
 ## 7.2.59
 
 ### Patch Changes
